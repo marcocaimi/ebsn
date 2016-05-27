@@ -5,3 +5,4 @@
  3. Modifica carrello da popup accanto al carrello
  4. Filtri multipli sulle pagine
  5. Importare e filtrare per vendor
+
