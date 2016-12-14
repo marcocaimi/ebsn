@@ -1,8 +1,11 @@
 #title#
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 Vanno aggiunti i campi CARF_CANALE_LOCALE e CARF_CANALE_SECONDARIO VARCHAR(255)
-
-
 
 /*operazione necessarie per test. Tutti i prodotti sono collegati al livello 4 dell'albero*/
 
