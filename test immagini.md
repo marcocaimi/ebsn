@@ -7,3 +7,4 @@
   [1]: https://digitelematica.codebasehq.com/projects/ebsn/notebook/raw/Attachments/Biglietto.png
   [2]: http:///projects/ebsn/notebook/raw/Attachments/Biglietto.png
 
+nuovo progetto
