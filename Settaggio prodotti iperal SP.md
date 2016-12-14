@@ -1,4 +1,4 @@
-* title *
+#title#
 
 Vanno aggiunti i campi CARF_CANALE_LOCALE e CARF_CANALE_SECONDARIO VARCHAR(255)
 
